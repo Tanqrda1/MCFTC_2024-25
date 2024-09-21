@@ -354,5 +354,3 @@ public class ArnavOpMode extends LinearOpMode {
                     rampUp = !rampUp;  // Switch ramp direction
                 }
             }*/
-
-//l
